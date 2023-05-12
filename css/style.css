@@ -1,0 +1,29 @@
+#main{
+    background-image: url("/img/Header bg@2x.png") !important;
+            background-size: contain;
+            background-repeat: no-repeat;
+            height: 100vh;
+}
+#section{
+    padding-top: 20em;
+}
+.fs-4{
+    color:darkcyan;
+}
+.icon-gap{
+    gap: 1.5rem;
+    list-style: none;
+    padding-left: 0;
+}
+#main-cards{
+    margin-top: 10em;
+    height: 50vh;
+    padding: 0.7em 0;
+}
+#about{
+    margin-top: 16em;
+}
+#footer{
+    margin-top: 15em;
+}
+
